@@ -1,4 +1,5 @@
 BitConnector v5X:
+	- tiband doesn't do anything half-heartedly, only the XC9572XL version is used. 
 	- switch solder pad for resistors from 1.15mm to 1.20mm
 	- add additional 10nF bypass capacitor according to 
 	  Xilinx XAPP104 (3.0.1) specification
