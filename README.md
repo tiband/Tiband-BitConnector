@@ -12,9 +12,8 @@ Configurations that are present in an HDL/schematic are transmitted via JTAG and
 </tr></table>
 
 ## Usage & Documentation
-Example experimental setup:
 
-<img src="doc/Figures/development_environment.png" width="400"/>
+<img src="TI-BitConnector.png" width="214"/>
 
 - there is a detailed German board [documentation](https://raw.githubusercontent.com/tiband/Tiband-BitConnector/master/Board_Doc_German.pdf)
 - here is the preview for the [schematic](https://github.com/tiband/Tiband-BitConnector/raw/master/schematic_v5X.pdf)
