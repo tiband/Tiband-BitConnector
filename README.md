@@ -1,5 +1,3 @@
-*„Jede Lösung eines Problems ist ein neues Problem.“ - J. W. Goehte*
-
 # BitConnector
 
 The BitConnector is a Complex Programmable Logic Device (CPLD) Board, optimized for hardware-based, digital prototype design on a breadboard. 
@@ -18,11 +16,11 @@ Example experimental setup:
 
 <img src="doc/Figures/development_environment.png" width="400"/>
 
-- there is a detailed German board [documentation](https://raw.githubusercontent.com/1ux/BitConnector/master/Board_Doc_German.pdf)
-- here is the preview for the [schematic](https://github.com/1ux/BitConnector/raw/master/schematic_v5X.pdf)
-- files for board production have also been published in [Gerber](https://github.com/1ux/BitConnector/raw/master/gerbers/gerbers_v5X.zip) format
-- for a revision overview check: [changelog](https://github.com/1ux/BitConnector/blob/master/changelog.txt)
-- for all other questions, [there](https://github.com/1ux/BitConnector/archive/master.zip) is a KiCad project
+- there is a detailed German board [documentation](https://raw.githubusercontent.com/tiband/Tiband-BitConnector/master/Board_Doc_German.pdf)
+- here is the preview for the [schematic](https://github.com/tiband/Tiband-BitConnector/raw/master/schematic_v5X.pdf)
+- files for board production have also been published in [Gerber](https://github.com/tiband/Tiband-BitConnector/blob/master/gerbers/gerbers_v5X.zip) format
+- for a revision overview check: [changelog](https://raw.githubusercontent.com/tiband/Tiband-BitConnector/master/changelog.txt)
+- for all other questions, [there](https://github.com/tiband/Tiband-BitConnector.git) is a KiCad project
 
 |    |           |          |           |            |          |                   |
 | :- | :-------: | :------: | :-------- | :--------: | :------: | :---------------- |
@@ -76,7 +74,7 @@ Supplements and notes:
 - The BitConverter was designed in a minimal configuration with commercially available components.
 - The bracketed components are optional for hardware debouncing/Schmitt trigger action via [74LVC2G14](https://assets.nexperia.com/documents/data-sheet/74LVC2G14.pdf).
 - If you make the board without hardware debouncing, please set the solderjumper J1.
-- In addition to the schematic, the [Gerber](https://github.com/1ux/BitConnector/raw/master/gerbers/gerbers_v5X.zip) files for board production have also been published.
+- In addition to the schematic, the Gerber files for board production have also been published.
 
 ## Thanks to:
 
